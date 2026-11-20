@@ -1,0 +1,2 @@
+Estudiar Git
+Hacer la Práctica 01 de Entornos
